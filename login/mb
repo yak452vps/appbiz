@@ -1,0 +1,60 @@
+![06.png](https://github.com/yak452vps/appbiz/assets/160004192/3203e6be-3fd8-4dd4-b802-2209e93fb78e)
+
+
+```
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<link 
+rel=stylesheet 
+href=//cdn.materialdesignicons.com/2.0.46/css/materialdesignicons.min.css>
+<title>YAK452 Lotto</title>
+<script 
+async src="https://www.googletagmanager.com/gtag/js?id=UA-111628450-1">
+</script>
+
+<script>
+window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-111628450-1');
+</script>
+
+<link 
+href=/static/css/app.bf44779d86f91d0a59136e3257581eb7.css 
+rel=stylesheet>
+
+</head>
+
+<body>
+
+<div id=app>
+</div>
+
+<script 
+type=text/javascript 
+src=/static/js/manifest.eb4b9dc60a6e6f6e4df5.js>
+
+</script>
+
+<script 
+type=text/javascript 
+src=/static/js/vendor.0672ec01dd56685c6f42.js>
+
+</script>
+
+<script 
+type=text/javascript 
+src=/static/js/app.bdca293bcbe9c028b8b2.js>
+
+</script>
+
+</body>
+
+</html>
+```
